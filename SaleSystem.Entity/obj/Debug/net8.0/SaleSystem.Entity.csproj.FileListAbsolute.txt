@@ -7,6 +7,7 @@ F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entit
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.AssemblyInfoInputs.cache
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.AssemblyInfo.cs
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.csproj.CoreCompileInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.sourcelink.json
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.dll
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\refint\SaleSystem.Entity.dll
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.pdb

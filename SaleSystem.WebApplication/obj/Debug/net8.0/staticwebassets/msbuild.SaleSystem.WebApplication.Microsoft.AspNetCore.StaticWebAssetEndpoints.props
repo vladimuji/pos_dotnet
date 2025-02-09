@@ -172,13 +172,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SaleSystem.WebApplication.l6wvwaq78x.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U2Mz\u002BvfR80nb3CNmsH48pB/we0UUlswhm8WNv9FiDVg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022U2Mz\u002BvfR80nb3CNmsH48pB/we0UUlswhm8WNv9FiDVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jan 2025 03:40:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022U2Mz\u002BvfR80nb3CNmsH48pB/we0UUlswhm8WNv9FiDVg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 05:20:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SaleSystem.WebApplication/SaleSystem.WebApplication.l6wvwaq78x.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SaleSystem.WebApplication.l6wvwaq78x.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l6wvwaq78x"},{"Name":"integrity","Value":"sha256-U2Mz\u002BvfR80nb3CNmsH48pB/we0UUlswhm8WNv9FiDVg="},{"Name":"label","Value":"_content/SaleSystem.WebApplication/SaleSystem.WebApplication.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022U2Mz\u002BvfR80nb3CNmsH48pB/we0UUlswhm8WNv9FiDVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jan 2025 03:40:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022U2Mz\u002BvfR80nb3CNmsH48pB/we0UUlswhm8WNv9FiDVg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 05:20:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SaleSystem.WebApplication/scss/navs/_global.ktyzgqanqq.scss">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scss\navs\_global.scss'))</AssetFile>

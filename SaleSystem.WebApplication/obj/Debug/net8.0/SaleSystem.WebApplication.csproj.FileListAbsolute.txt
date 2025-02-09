@@ -258,6 +258,7 @@ F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebAp
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\SaleSystem.WebApplication.MvcApplicationPartsAssemblyInfo.cache
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\SaleSystem.WebApplication.RazorAssemblyInfo.cache
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\SaleSystem.WebApplication.RazorAssemblyInfo.cs
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\SaleSystem.WebApplication.sourcelink.json
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\scopedcss\bundle\SaleSystem.WebApplication.styles.css
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\scopedcss\projectbundle\SaleSystem.WebApplication.bundle.scp.css
@@ -270,7 +271,6 @@ F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebAp
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaleSystem.WebApplication.props
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaleSystem.WebApplication.props
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
-F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\SaleSyst.ECC4B927.Up2Date
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\SaleSystem.WebApplication.dll
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.WebApplication\obj\Debug\net8.0\refint\SaleSystem.WebApplication.dll

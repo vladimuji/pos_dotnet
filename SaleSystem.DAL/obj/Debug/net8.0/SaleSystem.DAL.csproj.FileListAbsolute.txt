@@ -8,6 +8,7 @@ F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\o
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\SaleSystem.DAL.AssemblyInfoInputs.cache
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\SaleSystem.DAL.AssemblyInfo.cs
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\SaleSystem.DAL.csproj.CoreCompileInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\SaleSystem.DAL.sourcelink.json
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\SaleSyst.B7ED32DF.Up2Date
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\SaleSystem.DAL.dll
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.DAL\obj\Debug\net8.0\refint\SaleSystem.DAL.dll

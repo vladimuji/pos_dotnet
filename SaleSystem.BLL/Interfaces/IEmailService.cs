@@ -8,6 +8,6 @@ namespace SaleSystem.BLL.Interfaces
 {
     public interface IEmailService
     {
-        Task<bool> SendEmail(string DestEmail, string Subject, string Msg)
+        Task<bool> SendEmail(string DestEmail, string Subject, string Msg);
     }
 }

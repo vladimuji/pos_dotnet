@@ -12,6 +12,7 @@ F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\o
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\SaleSystem.IOC.AssemblyInfoInputs.cache
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\SaleSystem.IOC.AssemblyInfo.cs
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\SaleSystem.IOC.csproj.CoreCompileInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\SaleSystem.IOC.sourcelink.json
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\SaleSyst.C1547100.Up2Date
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\SaleSystem.IOC.dll
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.IOC\obj\Debug\net8.0\refint\SaleSystem.IOC.dll

@@ -10,6 +10,7 @@ F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\o
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.AssemblyInfoInputs.cache
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.AssemblyInfo.cs
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.csproj.CoreCompileInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.sourcelink.json
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSyst.96DE7D3F.Up2Date
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.dll
 F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\refint\SaleSystem.BLL.dll

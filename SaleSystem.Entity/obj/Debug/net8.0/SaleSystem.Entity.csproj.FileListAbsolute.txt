@@ -1,0 +1,14 @@
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\bin\Debug\net8.0\SaleSystem.Entity.deps.json
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\bin\Debug\net8.0\SaleSystem.Entity.runtimeconfig.json
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\bin\Debug\net8.0\SaleSystem.Entity.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\bin\Debug\net8.0\SaleSystem.Entity.pdb
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.csproj.AssemblyReference.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.AssemblyInfoInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.AssemblyInfo.cs
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.csproj.CoreCompileInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\refint\SaleSystem.Entity.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.pdb
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\SaleSystem.Entity.genruntimeconfig.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.Entity\obj\Debug\net8.0\ref\SaleSystem.Entity.dll

@@ -1,0 +1,17 @@
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.BLL.deps.json
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.BLL.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.BLL.pdb
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.DAL.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.Entity.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.DAL.pdb
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\bin\Debug\net8.0\SaleSystem.Entity.pdb
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.csproj.AssemblyReference.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.AssemblyInfoInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.AssemblyInfo.cs
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.csproj.CoreCompileInputs.cache
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSyst.96DE7D3F.Up2Date
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\refint\SaleSystem.BLL.dll
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\SaleSystem.BLL.pdb
+F:\F\PROYECTOS\0000\0014-pos-web-YT\000-code\SaleSystemSolution\SaleSystem.BLL\obj\Debug\net8.0\ref\SaleSystem.BLL.dll
